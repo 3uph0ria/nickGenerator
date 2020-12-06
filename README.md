@@ -1,16 +1,16 @@
 # [Nick Generator]
 
-##[Web-site]
+## [Web-site]
 For the site to work, you need to insert the API key into the $key variable in the index.php file.
 
-##[Functional]
+## [Functional]
 * Geting random nick
 
-##[TODO List]
+## [TODO List]
 * Develop a bot
 * Develop API
 * Сomplete the site functionality
 
 ## Preview
 
-[![Превью](web-site/img/preview.png)]
+![Превью](web-site/img/preview.png)
